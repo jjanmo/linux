@@ -50,3 +50,9 @@ echo $0
 > 많은 쉘 프로그램들이 존재한다.
 
 ## Shell Script
+
+<br/>
+
+✅ **참고**
+
+[쉘 vs 터미널 vs 콘솔](http://blog.naver.com/asianchairshot/221383363419)
