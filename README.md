@@ -12,8 +12,9 @@
 
 ## 내용
 
--   [명령어](command.md)
--   [쉘과 쉘스크립트](shellscript.md)
--   [프로세스](process.md)
+-   기본
+    -   [기본 명령어](basic_command.md)
+    -   [쉘과 쉘스크립트](shellscript.md)
+    -   [프로세스](process.md)
 
 ## 참고

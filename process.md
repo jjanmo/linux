@@ -54,3 +54,7 @@ suto htop
 ```
 
 > ps에서 리스트업해주는 것보다 프로세스 리스트를 <u>좀 더 보기쉽고 분석하기 쉽게 보여주는</u> 프로그램이다. ( **htop > top** )
+
+## 백그라운드
+
+https://pragp.tistory.com/entry/Linux%EB%A6%AC%EB%88%85%EC%8A%A4-fg-bg-kill-CtrlZ

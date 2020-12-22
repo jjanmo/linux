@@ -2,19 +2,24 @@
 
 > 터미널에서 실행하는 모든 명령어는 **현재 내가 위치한 곳**에서 실행된다.
 
-1. 그렇다면 **현재위치**는 어떻게 알 수 있을까?
+-   `pwd`
 
-pwd : 터미널에서의 현재위치를 알려준다
-ls -al : 현재 위치의 디렉토리 안의 파일/디렉토리 리스트를 보여준다
+    > 터미널에서의 **현재위치**를 알려준다
 
-mkdir :
-touch :
-ls
-ls -a
-ls -l
+-   `ls -al`
+
+    > 현재 위치의 디렉토리 안의 파일/디렉토리 리스트를 보여준다
+
+-   ls
+    ls -a
+    ls -l
 
 -rw-r--r-- 1 jjanmo staff 0 Nov 12 23:49 empty_file.txt
 drwxr-xr-x 2 jjanmo staff 64 Nov 12 23:49 hello_linux
+
+-   mkdir
+    >
+-   touch :
 
 cd :
 cd .. : : 상대경로
@@ -46,3 +51,7 @@ sudo(super user do)
 파일을 만들고 수정하는 방법(file edit / store)
 
 > 편집기 : nano(beginner) / vi(vim)(intermediate/advanced)
+
+https://www.hostinger.com/tutorials/linux-commands
+
+https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
