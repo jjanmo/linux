@@ -6,15 +6,21 @@
 
 > 리눅스를 알아가는 과정에서 해보고 싶은 부분을 점차적으로 추가할 예정이다.
 
--   기본
+- 기본
 
-    시작은 `리눅스 명령어/사용법`에 익숙해지도록 하자. 우선은 실습 환경으로 `맥북`에서 진행하도록 하겠다. 추후 필요하다면 리눅스를 설치하는 방향으로 하겠다.
+  - 시작은 `리눅스 명령어/사용법`에 익숙해지도록 하자. 우선은 실습 환경으로 `맥북`에서 진행하도록 하겠다. 추후 필요하다면 리눅스를 설치하는 방향으로 하겠다.
+
+  - 참고자료 : [생활코딩 리눅스](https://www.inflearn.com/course/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9-%EB%A6%AC%EB%88%85%EC%8A%A4-%EA%B0%95%EC%A2%8C)
 
 ## 내용
 
--   기본
-    -   [기본 명령어](basic_command.md)
-    -   [쉘과 쉘스크립트](shellscript.md)
-    -   [프로세스](process.md)
+- 기본
+  - [기본 명령어](./basic/basic_command.md)
+  - [IO Redirection](./basic/io_redirection.md)
+  - [쉘과 쉘스크립트](./basic/shellscript.md)
+  - [프로세스](./basic/process.md)
+  - [사용자](./basic/user.md)
+  - [권한](./basic/permission.md)
+  -
 
 ## 참고
